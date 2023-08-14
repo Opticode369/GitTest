@@ -1,2 +1,2 @@
-# git-test
+# GitTest
 Odinproject-learning
